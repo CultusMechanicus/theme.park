@@ -31,3 +31,6 @@
 --text-shadow-color: #37f592;
 --box-shadow: 0 0 15px;
 }
+#login .logo {
+  display: none
+}
